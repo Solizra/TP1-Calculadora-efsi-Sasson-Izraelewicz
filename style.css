@@ -3,3 +3,17 @@ div{
     width: 50%;
     height: auto;
 }
+
+button{
+    width: 7%;
+    height: 70px;
+    border-radius: 100%;
+}
+
+button p{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    
+}
