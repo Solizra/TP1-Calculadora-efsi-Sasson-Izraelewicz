@@ -24,15 +24,6 @@ h2#calculo {
     min-height: 50px;
 }
 
-/* Cambiar color del resultado */
-.positivo {
-    color: #4CAF50;
-}
-
-.negativo {
-    color: #e63946;
-}
-
 div {
     display: grid;
     grid-template-columns: repeat(4, 1fr);

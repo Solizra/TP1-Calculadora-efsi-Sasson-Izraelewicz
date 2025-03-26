@@ -70,6 +70,10 @@ let Calcular = () =>{
     numeros[0]= resultado;
     contadora--;
     operaciones = [];
+
+    if (resultado >= 0) calculo.style.color = "green";
+    else calculo.style.color = "red";
+    
 }
     
 
